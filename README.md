@@ -5,9 +5,9 @@
 </p>
 
 
-<p align="center">
-${\color{lightgreen}welcome \space to \space my \space github \space !!}$
-</p>
+
+# ${\color{lightgreen}welcome \space to \space my \space github \space !!}$
+
 
 1. test
    - test
