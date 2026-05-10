@@ -6,10 +6,10 @@
 
 
 
-$${\color{lightgreen}welcome \space to \space my \space github \space !!}$$
+### $${\color{lightgreen}welcome \space to \space my \space github \space !!}$$
 
 <p align="center">
-<img width="3000" height="120" alt="tumblr_2741499f95d6b4d5f230bdc17ab56527_edf713e9_2048 (1)" src="https://github.com/user-attachments/assets/dbce26c2-974a-4136-a997-5426e22f49a0" />
+<img width="2048" height="123" alt="tumblr_dc4b2df1e9745f6640b10b84c094a4e7_fc8a752a_2048" src="https://github.com/user-attachments/assets/3ed72ecd-f6a6-4ebb-91af-a6a4e3b1c060" />
 </p>
 
 <img width="1500" height="500" alt="tumblr_7e724f78f8aa36f5203fa525d1a91b5e_4d73fd3c_2048" src="https://github.com/user-attachments/assets/9e9012a0-1e2b-4be5-bf9f-7b7cac2aee17" />
