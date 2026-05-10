@@ -6,10 +6,11 @@
 
 
 <p align="center">
-<ins>${\color{lightgreen}welcome \space to \space my \space github \space !!}$<ins>
+${\color{lightgreen}welcome \space to \space my \space github \space !!}$
 </p>
 
-
+1. test
+   - test
 
 <p align="center">
 <img width="2048" height="123" alt="tumblr_dc4b2df1e9745f6640b10b84c094a4e7_fc8a752a_2048" src="https://github.com/user-attachments/assets/3ed72ecd-f6a6-4ebb-91af-a6a4e3b1c060" />
