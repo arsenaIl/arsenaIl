@@ -8,5 +8,8 @@
 
 $${\color{lightgreen}welcome \space to \space my \space github \space !!}$$
 
+<p align="center">
+<img width="3000" height="120" alt="tumblr_2741499f95d6b4d5f230bdc17ab56527_edf713e9_2048 (1)" src="https://github.com/user-attachments/assets/dbce26c2-974a-4136-a997-5426e22f49a0" />
+</p>
 
 <img width="1500" height="500" alt="tumblr_7e724f78f8aa36f5203fa525d1a91b5e_4d73fd3c_2048" src="https://github.com/user-attachments/assets/9e9012a0-1e2b-4be5-bf9f-7b7cac2aee17" />
