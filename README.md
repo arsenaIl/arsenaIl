@@ -6,7 +6,7 @@
 
 
 <p align="center">
-${\color{lightgreen}welcome \space to \space my \space github \space !!}$$
+${\color{lightgreen}welcome \space to \space my \space github \space !!}$
 </p>
 
 <p align="center">
