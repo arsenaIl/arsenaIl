@@ -2,6 +2,8 @@
 
 <p align="center">
 ☑️ c+h ☑️ ships ☑️ int
+</p>
+<p align="center">
 ✖️ inspo ✖️ copy
 </p>
 
