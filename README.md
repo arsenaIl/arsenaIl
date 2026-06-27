@@ -14,6 +14,7 @@
 
 <p align="center">
 <img width="1280" height="100" alt="tumblr_bdb36d17bb21f1c27fadeb46ad69a488_64cb6661_1280" src="https://github.com/user-attachments/assets/3abc4c1b-4336-4eab-b4fa-a55433559940" />
+</p>
 
 <p align="center">
 <table>
