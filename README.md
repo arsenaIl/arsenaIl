@@ -4,7 +4,7 @@
 ☑️ c+h ☑️ ships ☑️ int
 </p>
 <p align="center">
-✖️ inspo ✖️ copy
+✖️ inspo (ask) ✖️ copy
 </p>
 
 <p align="center">
