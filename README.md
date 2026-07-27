@@ -1,5 +1,5 @@
 <p align="center">
-<img width="1280" height="256" alt="tumblr_cf81e256b862c5c5781ed4dd7f852ecb_b880956a_1280" src="https://github.com/user-attachments/assets/998aa508-4110-4890-9c58-8706ae51b387" />
+<img width="2048" height="687" alt="tumblr_edb5a919ad5ae4df37aa90550bb0bd8d_2e252f1a_2048" src="https://github.com/user-attachments/assets/6f51a55a-3596-4783-b896-d36f9850b4b1" />
 </p>
 <p align="center">
 <img width="1280" height="11" alt="tumblr_591fdfb503908b967eeb4656e3842973_a06dc271_1280" src="https://github.com/user-attachments/assets/855de42d-6b97-4edf-aa10-6f5b8f9d0e38" />
@@ -33,5 +33,5 @@
 </div>
 
 <p align="center">
-<img width="1280" height="256" alt="tumblr_e06ab10def9c73c75efc45c1c1b55de7_d4b969f4_1280" src="https://github.com/user-attachments/assets/395d4191-5bd0-4faa-b1ba-292b0aacf785" />
+<img width="2048" height="687" alt="tumblr_f313ef6178ee7be9ec8a497d79bc68cb_10d4389b_2048" src="https://github.com/user-attachments/assets/bb203292-90a8-4afb-846f-9a2e95dae892" />
 </p>
