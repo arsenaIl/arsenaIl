@@ -23,7 +23,7 @@
   <tr>
     <td><img width="150" height="20" alt="tumblr_d65a8462d0ca874539a8743f5e1c895e_861cb105_640" src="https://github.com/user-attachments/assets/efc03a01-f9d8-4e61-b53c-1e75ca87fb99" /></td>
     <td><img width="150" height="20" alt="tumblr_ad126e3a51bf5ed41cfc5f7af96032a5_dc2a0418_250" src="https://github.com/user-attachments/assets/a4a52bd2-1180-431f-9039-6d4ff1080c2d" /></td>
-    <td><img width="150" height="20" alt="tumblr_9f43247662aa0d68fde626edea48f371_0e4d9016_250" src="https://github.com/user-attachments/assets/97eb21e8-f958-4e6c-9e8f-c0d5f22c2982" /></td>
+    <td><img width="300" height="40" alt="tumblr_8afbf9e12cb4bec0018731746a87b47e_c4d7b5a3_400" src="https://github.com/user-attachments/assets/dbeca8b2-d210-4f2e-87a6-c443de64e740" /></td>
     <td><img width="150" height="20" alt="tumblr_cb9e2e2c54e849467e61f6d59af82694_24211bbf_250" src="https://github.com/user-attachments/assets/4286e8a6-eac8-45f0-bc73-675cb12a3071" /></td>
   </tr>
 </table>
