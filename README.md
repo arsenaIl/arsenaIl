@@ -9,11 +9,11 @@
 ☑️ c+h ☑️ ships ☑️ int
 </p>
 <p align="center">
-✖️ inspo (ask) ✖️ copy ✖️ rp ✖️ self shippers (ur corny)
+✖️ inspo (ask) ✖️ copy ✖️ rp
 </p>
 
 <p align="center">
-<img width="500" height="211" alt="cb7f8707dd63abd1bc702d2d97262b0e" src="https://github.com/user-attachments/assets/cc40e942-21e8-4932-acdf-800e0b1494a3" />
+<img width="500" height="228" alt="tumblr_87e9db1dc621364b279303b5e2bd4d21_29a1cc19_500" src="https://github.com/user-attachments/assets/b24f8412-cc39-4e6e-a9b6-3e1f862cadcc" />
 </p>
 
 
