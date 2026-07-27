@@ -22,7 +22,7 @@
 <table>
   <tr>
     <td><img width="150" height="20" alt="tumblr_d65a8462d0ca874539a8743f5e1c895e_861cb105_640" src="https://github.com/user-attachments/assets/efc03a01-f9d8-4e61-b53c-1e75ca87fb99" /></td>
-    <td><img width="150" height="20" alt="tumblr_ad126e3a51bf5ed41cfc5f7af96032a5_dc2a0418_250" src="https://github.com/user-attachments/assets/a4a52bd2-1180-431f-9039-6d4ff1080c2d" /></td>
+    <td><img width="150" height="20" alt="tumblr_29504b0a6cbd5b0f07de6e8e0540de10_e266a6d0_250" src="https://github.com/user-attachments/assets/30fdfaab-5120-4de6-b33d-824b2597dddf" /></td>
     <td><img width="150" height="20" alt="tumblr_8afbf9e12cb4bec0018731746a87b47e_c4d7b5a3_400" src="https://github.com/user-attachments/assets/dbeca8b2-d210-4f2e-87a6-c443de64e740" /></td>
     <td><img width="150" height="20" alt="tumblr_0d24fe74d21200a15109690da2692c14_8a8791b8_250" src="https://github.com/user-attachments/assets/8168ef6a-3a5c-46b6-b6a3-53aa63432c3e" /></td>
   </tr>
@@ -31,8 +31,8 @@
 <div align="center">
 <table>
   <tr>
-    <td><img width="150" height="20" alt="tumblr_d65a8462d0ca874539a8743f5e1c895e_861cb105_640" src="https://github.com/user-attachments/assets/efc03a01-f9d8-4e61-b53c-1e75ca87fb99" /></td>
-    <td><img width="150" height="20" alt="tumblr_ad126e3a51bf5ed41cfc5f7af96032a5_dc2a0418_250" src="https://github.com/user-attachments/assets/a4a52bd2-1180-431f-9039-6d4ff1080c2d" /></td>
+    <td><img width="150" height="20" alt="tumblr_13e4b95886cb04881f5da985a174f1bd_d7d6d102_250" src="https://github.com/user-attachments/assets/3d6d3dc6-e6c3-4fe7-86b6-b29d7295f52d" /></td>
+    <td><img width="150" height="20" alt="tumblr_89dd6f8eccd58037e3e3c21fe785cd83_ef19e6c6_250" src="https://github.com/user-attachments/assets/111c6394-06ff-40a7-843f-918d12aea0a9" /></td>
     <td><img width="150" height="20" alt="tumblr_8afbf9e12cb4bec0018731746a87b47e_c4d7b5a3_400" src="https://github.com/user-attachments/assets/dbeca8b2-d210-4f2e-87a6-c443de64e740" /></td>
     <td><img width="150" height="20" alt="tumblr_0d24fe74d21200a15109690da2692c14_8a8791b8_250" src="https://github.com/user-attachments/assets/8168ef6a-3a5c-46b6-b6a3-53aa63432c3e" /></td>
   </tr>
