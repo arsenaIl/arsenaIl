@@ -1,4 +1,9 @@
-<img width="1280" height="330" alt="tumblr_c5f7d1687429233b674c41f39b667fcd_9c89d520_1280" src="https://github.com/user-attachments/assets/e039abb3-d08f-4001-806a-9f8bae4c09be" />
+<p align="center">
+<img width="1280" height="256" alt="tumblr_cf81e256b862c5c5781ed4dd7f852ecb_b880956a_1280" src="https://github.com/user-attachments/assets/998aa508-4110-4890-9c58-8706ae51b387" />
+</p>
+<p align="center">
+<img width="1280" height="11" alt="tumblr_591fdfb503908b967eeb4656e3842973_a06dc271_1280" src="https://github.com/user-attachments/assets/855de42d-6b97-4edf-aa10-6f5b8f9d0e38" />
+</p>
 
 <p align="center">
 ☑️ c+h ☑️ ships ☑️ int
@@ -13,7 +18,10 @@
 
 
 <p align="center">
-<img width="1280" height="100" alt="tumblr_bdb36d17bb21f1c27fadeb46ad69a488_64cb6661_1280" src="https://github.com/user-attachments/assets/3abc4c1b-4336-4eab-b4fa-a55433559940" />
+<img width="1280" height="11" alt="tumblr_591fdfb503908b967eeb4656e3842973_a06dc271_1280" src="https://github.com/user-attachments/assets/855de42d-6b97-4edf-aa10-6f5b8f9d0e38" />
+</p>
+<p align="center">
+<img width="1280" height="256" alt="tumblr_e06ab10def9c73c75efc45c1c1b55de7_d4b969f4_1280" src="https://github.com/user-attachments/assets/395d4191-5bd0-4faa-b1ba-292b0aacf785" />
 </p>
 
 <div align="center">
