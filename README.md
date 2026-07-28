@@ -2,9 +2,6 @@
 <img width="2048" height="621" alt="tumblr_9ff6a75beefea608dcdf6acf15a4973a_e75ae6be_2048" src="https://github.com/user-attachments/assets/783a7e9f-7686-4345-a0d3-6fe9209aa7bf" />
 </p>
 
-![](https://komarev.com/ghpvc/?username=gambling-addict&color=c07d78&label=⠀⠀⠀⠀⠀𐂯⠀⠀⠀⠀⠀&style=flat)<br>
-<br>
-
 <table>
   <tr>
     <td>
