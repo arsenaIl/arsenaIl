@@ -4,8 +4,9 @@
 
 <p align="center">
 
-![](https://komarev.com/ghpvc/?username=arsenaIl&color=ab3a3a&label=⠀⠀⠀⠀⠀➳⠀⠀⠀⠀⠀&style=flat)<br>
-<br>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=arsenaIl&color=ab3a3a&label=⠀⠀⠀⠀⠀➳⠀⠀⠀⠀⠀&style=flat" />
+  <br>
 </p>
 
 <div align="center">
