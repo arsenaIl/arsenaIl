@@ -2,16 +2,26 @@
 <img width="2048" height="621" alt="tumblr_9ff6a75beefea608dcdf6acf15a4973a_e75ae6be_2048" src="https://github.com/user-attachments/assets/783a7e9f-7686-4345-a0d3-6fe9209aa7bf" />
 </p>
       
-<p align="center">
-<img width="23" height="17" alt="tumblr_6aad1c3527131b022508d97862cd8086_1dd9edfb_75" src="https://github.com/user-attachments/assets/3f270c5e-8d09-41a7-a0dd-3e26e41fa5b5" />  c+h  &&  ships  &&  int !
-</p>
-<p align="center">
-<img width="20" height="20" alt="tumblr_48e63740e76ced8bec0d73aca9091cf0_f1453845_75" src="https://github.com/user-attachments/assets/6f9da722-3518-4432-9434-fc1be20dfdac" />  inspo (ask)  &&  roleplay  &&  copy !
-</p>
-<p align="center">
-always afk , communicate through private messages ! <img width="20" height="20" alt="tumblr_f63cf158e2543279cf34f219839dec7f_f2120eec_75" src="https://github.com/user-attachments/assets/4975e477-a563-4075-a114-5b66e8da9c74" />
-</p>
+<table>
+  <tr>
+    <td>
+     ㅤㅤㅤ
+<div align="center">
+     
+ ㅤㅤㅤ $${\color{#b52222}c+h && ships && int !}$$ㅤㅤㅤㅤㅤ
 
+ㅤㅤㅤㅤㅤㅤ $${\color{#b52222}inspo (ask) && roleplay && copy !}$$ㅤㅤㅤㅤㅤㅤㅤㅤ
+
+
+<img width="482" height="104" alt="tumblr_2ca1070ebdd7667e8ed7b359f70c8f3b_388420d3_500" src="https://github.com/user-attachments/assets/55efa127-a1be-46b6-a30a-a3c1ec663631" />
+<br>
+<br>ㅤㅤㅤㅤ
+
+ㅤ ㅤ 
+
+   </td>
+  </tr>
+</table>
 <p align="center">
 <img width="1500" height="530" alt="Untitled16_20260727141522" src="https://github.com/user-attachments/assets/a9501730-076d-41d3-8a55-021da3be2247" />
 </p>
