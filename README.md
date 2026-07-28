@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-<img width="23" height="17" alt="tumblr_6aad1c3527131b022508d97862cd8086_1dd9edfb_75" src="https://github.com/user-attachments/assets/3f270c5e-8d09-41a7-a0dd-3e26e41fa5b5" />  c+h , ships , int !
+<img width="23" height="17" alt="tumblr_6aad1c3527131b022508d97862cd8086_1dd9edfb_75" src="https://github.com/user-attachments/assets/3f270c5e-8d09-41a7-a0dd-3e26e41fa5b5" />  c+h && ships && int !
 </p>
 <p align="center">
 ✖️ inspo (ask) ✖️ copy ✖️ rp
