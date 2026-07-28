@@ -10,18 +10,28 @@
 </p>
 
 <div align="center">
-<table>
-  <tr>
-    </td>
 
-<img width="23" height="17" alt="tumblr_6aad1c3527131b022508d97862cd8086_1dd9edfb_75" src="https://github.com/user-attachments/assets/3f270c5e-8d09-41a7-a0dd-3e26e41fa5b5" />  c+h  &&  ships  &&  int !
-      
-<img width="20" height="20" alt="tumblr_48e63740e76ced8bec0d73aca9091cf0_f1453845_75" src="https://github.com/user-attachments/assets/6f9da722-3518-4432-9434-fc1be20dfdac" />  inspo (ask)  &&  roleplay  &&  copy !
-      
-always afk , communicate through private messages ! <img width="20" height="20" alt="tumblr_f63cf158e2543279cf34f219839dec7f_f2120eec_75" src="https://github.com/user-attachments/assets/4975e477-a563-4075-a114-5b66e8da9c74" />
-  </td>
-  </tr>
+<table style="width:420px;height:420px;border:1px solid #666;border-collapse:collapse;">
+<tr>
+<td align="center" valign="middle">
+
+<img width="23" height="17" src="https://github.com/user-attachments/assets/3f270c5e-8d09-41a7-a0dd-3e26e41fa5b5" />
+c+h && ships && int !
+
+<br><br>
+
+<img width="20" height="20" src="https://github.com/user-attachments/assets/6f9da722-3518-4432-9434-fc1be20dfdac" />
+inspo (ask) && roleplay && copy !
+
+<br><br>
+
+always afk, communicate through private messages!
+<img width="20" height="20" src="https://github.com/user-attachments/assets/4975e477-a563-4075-a114-5b66e8da9c74" />
+
+</td>
+</tr>
 </table>
+
 </div>
 
 <p align="center">
