@@ -36,7 +36,7 @@ always afk, communicate through private messages!
 
 
 <p align="center">
-ـــــــــــــــــــﮩ٨ـ
+⊹˚₊‧───────────────‧₊˚⊹
 </p>
 
 <div align="center">
