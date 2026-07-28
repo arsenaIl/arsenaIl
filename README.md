@@ -18,10 +18,6 @@
 <img width="20" height="20" alt="tumblr_48e63740e76ced8bec0d73aca9091cf0_f1453845_75" src="https://github.com/user-attachments/assets/6f9da722-3518-4432-9434-fc1be20dfdac" />  inspo (ask)  &&  roleplay  &&  copy !
       
 always afk , communicate through private messages ! <img width="20" height="20" alt="tumblr_f63cf158e2543279cf34f219839dec7f_f2120eec_75" src="https://github.com/user-attachments/assets/4975e477-a563-4075-a114-5b66e8da9c74" />
-<br>
-<br>ㅤㅤㅤㅤ
-
-ㅤ ㅤ 
 
    </td>
   </tr>
