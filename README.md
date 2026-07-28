@@ -26,6 +26,7 @@ always afk , communicate through private messages ! <img width="20" height="20" 
    </td>
   </tr>
 </table>
+</div>
 
 <p align="center">
 <img width="1500" height="530" alt="Untitled16_20260727141522" src="https://github.com/user-attachments/assets/a9501730-076d-41d3-8a55-021da3be2247" />
