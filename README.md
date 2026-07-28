@@ -14,7 +14,6 @@
 
 always afk , communicate through private messages ! <img width="20" height="20" alt="tumblr_f63cf158e2543279cf34f219839dec7f_f2120eec_75" src="https://github.com/user-attachments/assets/4975e477-a563-4075-a114-5b66e8da9c74" />
 
-<img width="482" height="104" alt="tumblr_2ca1070ebdd7667e8ed7b359f70c8f3b_388420d3_500" src="https://github.com/user-attachments/assets/55efa127-a1be-46b6-a30a-a3c1ec663631" />
 <br>
 <br>ㅤㅤㅤㅤ
 
@@ -23,6 +22,7 @@ always afk , communicate through private messages ! <img width="20" height="20" 
    </td>
   </tr>
 </table>
+
 <p align="center">
 <img width="1500" height="530" alt="Untitled16_20260727141522" src="https://github.com/user-attachments/assets/a9501730-076d-41d3-8a55-021da3be2247" />
 </p>
