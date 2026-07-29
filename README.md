@@ -24,7 +24,7 @@ inspo (ask) • roleplay • copy !
 always afk, communicate through private messages!
 <img width="20" height="20" src="https://github.com/user-attachments/assets/4975e477-a563-4075-a114-5b66e8da9c74" />
 <br><br>
-[@pt-contributers]([https://github.com/pt-contributers]) pt's roy harper <3
+[@pt-contributers](https://github.com/pt-contributers) pt's roy harper <3
 <img width="20" height="20" alt="tumblr_b59defd860166e936acdbd8a6aa66cec_322d407c_75" src="https://github.com/user-attachments/assets/31ec7074-d1bf-4875-a8d8-ebe5608dfbb8" />
 
 
