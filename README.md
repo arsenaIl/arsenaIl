@@ -59,7 +59,7 @@ pony town's roy harper &lt;3
 <p align="center">
 <img width="1500" height="500" alt="Untitled29_20260731181544" src="https://github.com/user-attachments/assets/8004f091-363e-4989-8fef-1b1ae322015f" />
 </p>
-<br><br><br>
+<br><br>
 <p align="center">
 <img width="1500" height="500" alt="Untitled28_20260731180753" src="https://github.com/user-attachments/assets/c5ba9d09-0bc8-4771-a963-31ed33870477" />
 </p>
