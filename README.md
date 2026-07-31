@@ -74,7 +74,7 @@ pony town's roy harper &lt;3
 <td align="center">
 
 <details>
-<summary>placeholder</summary>
+<summary>♡．placeholderrrrrrr</summary>
 
 <br>
 placeholder
