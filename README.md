@@ -36,13 +36,11 @@ c+h • ships • int !
 inspo (ask) • roleplay • copy !
 <br>
 communicate through private messages!
-<img width="20" height="20" src="https://github.com/user-attachments/assets/4975e477-a563-4075-a114-5b66e8da9c74" />
+<img width="20" height="20" alt="tumblr_49ddb69d19cd4ed47cc98f85b8b4c785_41860895_75" src="https://github.com/user-attachments/assets/9e1ab628-a88e-49eb-8d93-bfc7b7250686" />
 <br><br>
 pony town's roy harper &lt;3
 <br>
 <a href="https://github.com/pt-contributers">@pt-contributers</a>
-<br>
-<img width="20" height="20" alt="tumblr_49ddb69d19cd4ed47cc98f85b8b4c785_41860895_75" src="https://github.com/user-attachments/assets/9e1ab628-a88e-49eb-8d93-bfc7b7250686" />
 <br>
 <img width="99" height="56" alt="Untitled27_20260731163054" src="https://github.com/user-attachments/assets/81cae979-ee58-4b1d-83c9-8567206a0e5a" />
 <img width="99" height="56" alt="Untitled27_20260731163359" src="https://github.com/user-attachments/assets/ad447acb-913d-4992-bdcf-4b26b48ece92" />
