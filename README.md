@@ -34,12 +34,12 @@ c+h • ships • int !
 <br>
 <img width="20" height="20" src="https://github.com/user-attachments/assets/6f9da722-3518-4432-9434-fc1be20dfdac" />
 inspo (ask) • roleplay • copy !
-<br><br>
+<br>
 communicate through private messages!
 <img width="20" height="20" src="https://github.com/user-attachments/assets/4975e477-a563-4075-a114-5b66e8da9c74" />
 <br><br>
 pony town's roy harper &lt;3
-
+<br>
 <a href="https://github.com/pt-contributers">@pt-contributers</a>
 
 </td>
