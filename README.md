@@ -38,7 +38,8 @@ inspo (ask) • roleplay • copy !
 communicate through private messages!
 <img width="20" height="20" src="https://github.com/user-attachments/assets/4975e477-a563-4075-a114-5b66e8da9c74" />
 <br><br>
-pony town's roy harper &lt;3 •
+pony town's roy harper &lt;3
+
 <a href="https://github.com/pt-contributers">pt-contributers</a>
 
 </td>
