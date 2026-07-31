@@ -40,7 +40,7 @@ communicate through private messages!
 <br><br>
 pony town's roy harper &lt;3
 
-<a href="https://github.com/pt-contributers">pt-contributers</a>
+<a href="https://github.com/pt-contributers">@pt-contributers</a>
 
 </td>
 
