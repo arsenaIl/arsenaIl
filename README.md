@@ -3,6 +3,10 @@
 </p>
 
 <p align="center">
+<img width="1280" height="153" alt="Untitled24_20260731154637" src="https://github.com/user-attachments/assets/cb782c6b-15db-4961-afa0-08e21504d4f5" />
+</p>
+
+<p align="center">
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=arsenaIl&color=ab3a3a&label=⠀⠀⠀⠀⠀➳⠀⠀⠀⠀⠀&style=flat" />
@@ -39,9 +43,4 @@ pony towns roy harper <3 •
 
 <p align="center">
 <img width="1280" height="513" alt="Untitled22_20260731154231" src="https://github.com/user-attachments/assets/5cdf483d-bc74-433c-88e6-915a2abbe291" />
-</p>
-
-
-<p align="center">
-<img width="2048" height="621" alt="Untitled19_20260731141458" src="https://github.com/user-attachments/assets/31f26fa0-f565-437c-ba32-7b208941792c" />
 </p>
