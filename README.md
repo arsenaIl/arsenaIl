@@ -93,7 +93,7 @@ placeholder
 
 </details>
 
-</td>
+</td></td></td>
 
 <td align="center">
 
