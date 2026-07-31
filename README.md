@@ -68,14 +68,46 @@ pony town's roy harper &lt;3
 <br><br>
 <div align="center">
 
+<table>
+<tr>
+
+<td align="center">
+
 <details>
-<summary>test</summary>
+<summary>placeholder</summary>
 
 <br>
+placeholder
 
-test
-<br>
-test
 </details>
+
+</td>
+
+<td align="center">
+
+<details>
+<summary>placeholder</summary>
+
+<br>
+placeholder
+
+</details>
+
+</td>
+
+<td align="center">
+
+<details>
+<summary>placeholder</summary>
+
+<br>
+placeholder
+
+</details>
+
+</td>
+
+</tr>
+</table>
 
 </div>
