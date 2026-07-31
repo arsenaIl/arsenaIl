@@ -15,31 +15,40 @@
 
 <div align="center">
 
-<table style="width:420px;height:420px;border:1px solid #666;border-collapse:collapse;">
+<div align="center">
+
+<table>
 <tr>
-<td align="center" valign="middle">
+
+<td align="center" valign="middle" width="320">
+
+<img width="300" height="300" alt="Untitled21_20260731152249" src="https://github.com/user-attachments/assets/b6368fd9-cd9d-452c-a3d9-b86b326146bf" />
+
+</td>
+
+<td valign="middle" width="340">
 
 <img width="23" height="17" src="https://github.com/user-attachments/assets/3f270c5e-8d09-41a7-a0dd-3e26e41fa5b5" />
 c+h • ships • int !
 <br><br>
+
 <img width="20" height="20" src="https://github.com/user-attachments/assets/6f9da722-3518-4432-9434-fc1be20dfdac" />
 inspo (ask) • roleplay • copy !
 <br><br>
+
 always afk, communicate through private messages!
 <img width="20" height="20" src="https://github.com/user-attachments/assets/4975e477-a563-4075-a114-5b66e8da9c74" />
 <br><br>
-pony towns roy harper <3 • 
+
+pony town's roy harper &lt;3 •
 <a href="https://github.com/pt-contributers">pt-contributers</a>
+
 </td>
+
 </tr>
 </table>
 
 </div>
-
-<p align="center">
-<img width="300" height="300" alt="Untitled21_20260731152249" src="https://github.com/user-attachments/assets/b6368fd9-cd9d-452c-a3d9-b86b326146bf" />
-</p>
-
 
 <p align="center">
 <img width="1280" height="513" alt="Untitled22_20260731154231" src="https://github.com/user-attachments/assets/5cdf483d-bc74-433c-88e6-915a2abbe291" />
