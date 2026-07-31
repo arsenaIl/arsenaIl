@@ -6,14 +6,6 @@
 <img width="300" height="30" alt="Untitled24_20260731154637" src="https://github.com/user-attachments/assets/cb782c6b-15db-4961-afa0-08e21504d4f5" />
 </p>
 
-<p align="center">
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=arsenaIl&color=ab3a3a&label=⠀⠀⠀⠀⠀➳⠀⠀⠀⠀⠀&style=flat" />
-  <br>
-</p>
-
-<div align="center">
 
 <div align="center">
 
@@ -27,6 +19,15 @@
 </td>
 
 <td valign="middle" width="340">
+
+<p align="center">
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=arsenaIl&color=ab3a3a&label=⠀⠀⠀⠀⠀➳⠀⠀⠀⠀⠀&style=flat" />
+  <br>
+</p>
+
+<div align="center">
 
 <img width="23" height="17" src="https://github.com/user-attachments/assets/3f270c5e-8d09-41a7-a0dd-3e26e41fa5b5" />
 c+h • ships • int !
