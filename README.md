@@ -31,6 +31,7 @@
 
 <img width="23" height="17" src="https://github.com/user-attachments/assets/3f270c5e-8d09-41a7-a0dd-3e26e41fa5b5" />
 c+h • ships • int !
+$\color{#C73D2F}{\textsf{test}$
 <br>
 <img width="20" height="20" src="https://github.com/user-attachments/assets/6f9da722-3518-4432-9434-fc1be20dfdac" />
 inspo (ask) • roleplay • copy !
@@ -74,7 +75,7 @@ pony town's roy harper &lt;3
 <td align="center">
 
 <details>
-<summary>♡．placeholderrrrrrr</summary>
+<summary>♡．interests !</summary>
 
 <br>
 placeholder
@@ -86,7 +87,7 @@ placeholder
 <td align="center">
 
 <details>
-<summary>placeholder</summary>
+<summary>♡．DNI !</summary>
 
 <br>
 placeholder
