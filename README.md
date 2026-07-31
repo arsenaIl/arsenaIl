@@ -1,5 +1,5 @@
 <p align="center">
-<img width="2048" height="621" alt="tumblr_9ff6a75beefea608dcdf6acf15a4973a_e75ae6be_2048" src="https://github.com/user-attachments/assets/783a7e9f-7686-4345-a0d3-6fe9209aa7bf" />
+<img width="2048" height="621" alt="Untitled18_20260731141445" src="https://github.com/user-attachments/assets/7d784223-7d89-4d07-adc9-4cf88a009ff6" />
 </p>
 
 <p align="center">
@@ -33,7 +33,7 @@ pony towns roy harper <3 •
 </div>
 
 <p align="center">
-<img width="1500" height="530" alt="Untitled16_20260727141522" src="https://github.com/user-attachments/assets/a9501730-076d-41d3-8a55-021da3be2247" />
+<img width="1500" height="530" alt="Untitled16_20260731141428" src="https://github.com/user-attachments/assets/569f7156-db7f-483c-a71d-6b8fb1a2e9a4" />
 </p>
 
 
@@ -43,5 +43,5 @@ pony towns roy harper <3 •
 
 
 <p align="center">
-<img width="2048" height="621" alt="tumblr_7eeae1740ae4e493850ed6eee1bf3b77_578a3088_2048" src="https://github.com/user-attachments/assets/b76a357e-44bc-4788-b5c9-1f10f4a0526e" />
+<img width="2048" height="621" alt="Untitled19_20260731141458" src="https://github.com/user-attachments/assets/31f26fa0-f565-437c-ba32-7b208941792c" />
 </p>
