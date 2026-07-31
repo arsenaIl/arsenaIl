@@ -33,12 +33,12 @@ pony towns roy harper <3 •
 </div>
 
 <p align="center">
-<img width="400" height="400" alt="Untitled21_20260731152249" src="https://github.com/user-attachments/assets/b6368fd9-cd9d-452c-a3d9-b86b326146bf" />
+<img width="300" height="300" alt="Untitled21_20260731152249" src="https://github.com/user-attachments/assets/b6368fd9-cd9d-452c-a3d9-b86b326146bf" />
 </p>
 
 
 <p align="center">
-⊹˚₊‧───────────────‧₊˚⊹
+<img width="1280" height="513" alt="Untitled22_20260731154231" src="https://github.com/user-attachments/assets/5cdf483d-bc74-433c-88e6-915a2abbe291" />
 </p>
 
 
