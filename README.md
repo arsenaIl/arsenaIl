@@ -42,6 +42,8 @@ pony town's roy harper &lt;3
 <br>
 <a href="https://github.com/pt-contributers">@pt-contributers</a>
 
+<img width="99" height="56" alt="Untitled27_20260731163054" src="https://github.com/user-attachments/assets/81cae979-ee58-4b1d-83c9-8567206a0e5a" />
+
 </td>
 
 </tr>
