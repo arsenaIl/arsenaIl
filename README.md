@@ -31,7 +31,6 @@
 
 <img width="23" height="17" src="https://github.com/user-attachments/assets/3f270c5e-8d09-41a7-a0dd-3e26e41fa5b5" />
 c+h • ships • int !
-<br><br>
 <img width="20" height="20" src="https://github.com/user-attachments/assets/6f9da722-3518-4432-9434-fc1be20dfdac" />
 inspo (ask) • roleplay • copy !
 <br><br>
