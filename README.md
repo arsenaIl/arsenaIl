@@ -6,7 +6,6 @@
 <img width="300" height="30" alt="Untitled24_20260731154637" src="https://github.com/user-attachments/assets/cb782c6b-15db-4961-afa0-08e21504d4f5" />
 </p>
 
-$\color{#a9d6ff}{\textsf{test}}$
 <div align="center">
 
 <table>
@@ -31,6 +30,7 @@ $\color{#a9d6ff}{\textsf{test}}$
 
 <img width="23" height="17" src="https://github.com/user-attachments/assets/3f270c5e-8d09-41a7-a0dd-3e26e41fa5b5" />
 c+h • ships • int !
+$\color{#a9d6ff}{\textsf{test}}$
 <br>
 <img width="20" height="20" src="https://github.com/user-attachments/assets/6f9da722-3518-4432-9434-fc1be20dfdac" />
 inspo (ask) • roleplay • copy !
