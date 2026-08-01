@@ -6,7 +6,7 @@
 <img width="300" height="30" alt="Untitled24_20260731154637" src="https://github.com/user-attachments/assets/cb782c6b-15db-4961-afa0-08e21504d4f5" />
 </p>
 
-
+$\color{#a9d6ff}{\textsf{test}}$
 <div align="center">
 
 <table>
