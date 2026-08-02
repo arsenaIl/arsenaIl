@@ -37,7 +37,7 @@ inspo (ask) • roleplay • copy !
 communicate through private messages!
 <img width="20" height="20" alt="tumblr_49ddb69d19cd4ed47cc98f85b8b4c785_41860895_75" src="https://github.com/user-attachments/assets/9e1ab628-a88e-49eb-8d93-bfc7b7250686" />
 <br><br>
-pony town's roy harper &lt;3
+pony town's roy harper &lt;3 <span style="color:#ab3a3a;">Red test</span>
 <br>
 <a href="https://github.com/pt-contributers">@pt-contributers</a>
 <br>
